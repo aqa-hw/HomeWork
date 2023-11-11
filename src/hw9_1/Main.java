@@ -1,7 +1,7 @@
 package hw9_1;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws Car.InvalidMakeException, Car.InvalidModelException, Car.InvalidYearException, Car.InvalidPriceException {
         Car car = new Car();
 
         try {
@@ -17,5 +17,7 @@ public class Main {
         System.out.println("Model: " + car.getModel());
         System.out.println("Year: " + car.getYear());
         System.out.println("Price: " + car.getPrice());
+
+
     }
 }
