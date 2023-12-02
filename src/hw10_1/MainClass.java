@@ -15,7 +15,7 @@ public class MainClass<T> {
 
 //        arr.set(3, 10);
 //        arr.remove(2);
-//        arr.addFirst(3);
+//
 //
 //       System.out.println(arr.getLast());
 

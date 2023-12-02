@@ -1,5 +1,5 @@
 //Task#1
-/*
+
 import java.util.Scanner;
 public class hw3 {
     public static void main(String[] args) {
@@ -26,7 +26,7 @@ public class hw3 {
 
     }
 }
-*/
+
 //Task#2
 /*
 public class hw3 {
